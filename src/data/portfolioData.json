@@ -1,0 +1,17 @@
+{
+    "navLinks": [
+    { "label": "About", "href": "#about" },
+    { "label": "Skills", "href": "#skills" },
+    { "label": "Projects", "href": "#projects" },
+    { "label": "Experience", "href": "#experience" },
+    { "label": "Contact", "href": "#contact" },
+    { "label": "Blog", "href": "#blog" }
+  ],
+
+  "status": "Available for new opportunities",
+
+  "role": "Full-Stack Developer & UI/UX Engineer",
+
+  "tagLine": "I craft performant digital experiences — from pixel-perfect interfaces to scalable backend systems. Where engineering meets design thinking."
+
+}
