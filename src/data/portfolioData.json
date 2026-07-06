@@ -12,6 +12,18 @@
 
   "role": "Full-Stack Developer & UI/UX Engineer",
 
-  "tagLine": "I craft performant digital experiences — from pixel-perfect interfaces to scalable backend systems. Where engineering meets design thinking."
+  "tagLine": "I craft performant digital experiences — from pixel-perfect interfaces to scalable backend systems. Where engineering meets design thinking.",
 
+  "aboutMe": {
+    "name": "Dhanuja Isuru",
+    "roles": ["Full-Stack Developer", "UI/UX Engineer"],
+    "bio": "Building the future, one line at a time. I'm Dhanuja Isuru, a passionate Full-Stack Developer and UI/UX Engineer with a strong focus on creating products that are both technically robust and visually compelling. I bridge the gap between design and engineering — transforming complex ideas into seamless digital experiences.",
+    "tagLine": "My work spans React applications, Node.js microservices, AI chatbot systems, and full-stack web platforms. I believe great software is not just about functionality — it's about how it feels to use."
+  },
+  "stats": [
+    { "label": "Years of Experience", "value": "3+" },
+    { "label": "Projects Delivered", "value": "20+" },
+    { "label": "Technologies Mastered", "value": "8+" },
+    { "label": "Client Satisfaction", "value": "5★" }
+  ]
 }
